@@ -2,7 +2,7 @@ import streamlit as st
 
 st.divider()
 st.header("Block Cipher")
-st.text('by by Selwyn Kent Oñedo')
+st.text('by Selwyn Kent Oñedo')
 st.divider()
 
 def pad(data, block_size):
